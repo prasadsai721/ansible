@@ -1,3 +1,5 @@
+-
+
 - name: Smaple Play
   hosts: all
   tasks:
